@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-color: rgb(253,229,213);
+
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+h1{
+	font-size: 60px;
+	margin: 15px 15px 15px 50px;
+	align-self: center;
+	
+	
+}
+p{
+	font-size: 20px;
+	align-self: center;
+}
+
+.content{
+	margin: 15px auto;
+}
+.email{
+	width: 50%;
+	paddling: 20px;
+	border-radius: 20px;
+	margin: 20px 0 0 50px;
+
+}
+.email{
+	width: 20%
+}
+.subscribebutton{
+	margin: 10px 0px 20px 50px
+	width:80%;
+	padding: 10px;
+	border-radius: 20px;
+	color: red
+	cursor:pointer;
+	font-weight: bold;
+	border-style: none;
+}
+.subscribebutton:hover {
+	background-color:rgb(136, 211,255);
+	
+}
+
